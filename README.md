@@ -1,36 +1,37 @@
-# Luca-Portfolio
 
-A Portfolio website designed By Luca 
+# LINKTREE
+
+Its a simple clone of my linktree profile.
+
 
 ## Website
 
-[https://luca.pages.dev]
+[https://abhinav.ml/]
+
+
 ## Features
 
-- Minimal Design
 - Live previews
 - Fullscreen mode
-- Contact Info
-- map features
+- Simple Design
 
 
-# Repo Info
+## Repo Info
 
 
-Repo size :![repo size](https://img.shields.io/github/repo-size/probably-LUCA/portfolio)
+Repo size :![repo size](https://img.shields.io/github/repo-size/probably-LUCA/linktree)
 
-Total lines of code : ![code](https://img.shields.io/tokei/lines/github/probably-LUCA/portfolio)
+Total lines of code : ![code](https://img.shields.io/tokei/lines/github/probably-LUCA/linktree)
 
-Deployment : ![deployment](https://img.shields.io/github/deployments/probably-LUCA/portfolio/github-pages)
+Deployment : ![deployment](https://img.shields.io/github/deployments/probably-LUCA/linktree/github-pages)
 
-Last update : ![deployment](https://img.shields.io/github/last-commit/probably-LUCA/portfolio)
+Last update : ![deployment](https://img.shields.io/github/last-commit/probably-LUCA/linktree)
+
 ## Roadmap
 
-- Skill Section
+- Additional animated icons
 
-- Integrations
-
-- live preview of every Data
+- colour changing background
 
 
 ## License
@@ -40,9 +41,11 @@ Last update : ![deployment](https://img.shields.io/github/last-commit/probably-L
 
 ## Acknowledgements
 
- - [Awesome README](https://github.com/probably-LUCA/portfolio/)
+ - [Awesome README](https://github.com/probably-LUCA/linktree/)
+ 
 
-## Authors
+
+## Author
 
 - [@probably-LUCA](https://www.github.com/probably-LUCA)
 
@@ -67,4 +70,5 @@ This project is used by the following ppl :
 - Luca
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5y6mml7p7aou3sclsog.png)
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1pj9dmzzednn62gj1nc5.png)
+
