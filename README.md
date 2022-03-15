@@ -70,5 +70,5 @@ This project is used by the following ppl :
 - Luca
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1pj9dmzzednn62gj1nc5.png)
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5y6mml7p7aou3sclsog.png)
 
