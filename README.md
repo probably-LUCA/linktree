@@ -6,7 +6,7 @@ Its a simple clone of my linktree profile.
 
 ## Website
 
-[https://abhinav.ml/]
+[https://linktree-abhinav.pages.dev/]
 
 
 ## Features
